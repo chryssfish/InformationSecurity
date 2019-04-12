@@ -1,0 +1,2 @@
+V	191117193437Z		00	unknown	/C=GR/ST=Attica/L=Athens/O=Unipi/OU=Informatics Department/CN=Unipi CA/emailAddress=p15094@unipi.gr
+R	191117194219Z	181117200435Z	01	unknown	/C=GR/ST=Attica/L=Athens/O=Unipi/OU=Lab test client/CN=Chrysa Barbini/emailAddress=chrysa.ba@gmail.com
